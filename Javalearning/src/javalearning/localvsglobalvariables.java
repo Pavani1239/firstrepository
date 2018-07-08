@@ -21,7 +21,6 @@ public class localvsglobalvariables {
 		int i=15;
 		int b=20;
 		System.out.println(i+b);
-		
 	}
 
 }
