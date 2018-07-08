@@ -24,8 +24,8 @@ public class static_and_nonstatic {
 		static_and_nonstatic obj=new static_and_nonstatic();
 		obj.sendmail();
 		System.out.println(obj.name);
-		obj.sum(); // we can call static method through object reference but the warning will be given
-		System.out.println(obj.age);
+		//obj.sum(); // we can call static method through object reference but the warning will be given
+		//System.out.println(obj.age);
 		
 		
 		
